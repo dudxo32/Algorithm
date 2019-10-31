@@ -1,18 +1,18 @@
 #include <iostream>
 
-#include "1931_회의실배정.h"
-#include "1932_정수삼각형.h"
-#include "1965_상자넣기.h"
-#include "2290_LCDTest.h"
-#include "2302_극장좌석.h"
-#include "2577_숫자의개수.h"
-#include "3023_마술사이민혁.h"
-#include "4307_개미.h"
-#include "5585_거스름돈.h"
-#include "9084_동전.h"
-#include "11066_파일합치기.h"
-#include "11052_카드구매하기.h"
-
+#include "header/1932_baek.h"
+#include "header/1965_baek.h"
+#include "header/2290_baek.h"
+#include "header/2302_baek.h"
+#include "header/2577_baek.h"
+#include "header/3023_baek.h"
+#include "header/4307_baek.h"
+#include "header/5585_baek.h"
+#include "header/9084_baek.h"
+#include "header/11052_baek.h"
+#include "header/11066_baek.h"
+using namespace std;
+    
 int main()
 {
     ///							구현
